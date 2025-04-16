@@ -6,6 +6,7 @@ Treinar Python sozinho
 ## 📋 Instalação:
 1. Copie o repo.
 2. Abra o VSCode.
+3. Instale Python.
 
 ## 🧰 Tecnologia:
 - IDE: Visual Studio
